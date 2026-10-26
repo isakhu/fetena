@@ -1,0 +1,18 @@
+# Build output
+build/
+dist/
+
+# NetBeans project files
+nbproject/private/
+
+# IDE files
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Run script (auto-generated)
+run.bat
